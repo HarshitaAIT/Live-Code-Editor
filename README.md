@@ -10,8 +10,6 @@ An Online Editor that compiles your code live with HTML/CSS/JS
 - Making it look decent with style.css
 - Make the textareas responsive with media queries
 
-
-
 (https://user-images.githubusercontent.com/62508572/126872072-20d10874-f145-4501-9815-5b501601535e.png))
 
 
