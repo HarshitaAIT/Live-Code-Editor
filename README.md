@@ -12,7 +12,7 @@ An Online Editor that compiles your code live with HTML/CSS/JS
 
 
 
-![Screenshot 2021-09-26 at 1 23 26 AM](https://github.com/himanshubhardwaz/Online-Code-Editor-React)
+(https://user-images.githubusercontent.com/62508572/126872072-20d10874-f145-4501-9815-5b501601535e.png))
 
 
 ## Tech Stack
